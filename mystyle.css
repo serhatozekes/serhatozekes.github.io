@@ -1,0 +1,18 @@
+TD {
+	FONT-SIZE: 9pt; COLOR: #555555; FONT-FAMILY: Verdana, Tahoma , Lucida Sans Unicode, Trebuchet MS, Arial, Helvetica
+}
+A {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Verdana, Tahoma , Lucida Sans Unicode, Trebuchet MS, Arial, Helvetica; TEXT-DECORATION: none
+}
+.menu {
+	FONT-SIZE: 12px; COLOR: #6005f6; FONT-FAMILY: Verdana, Tahoma , Lucida Sans Unicode, Trebuchet MS, Arial, Helvetica
+}
+.copy {
+	FONT-SIZE: 9pt; COLOR: #000; FONT-FAMILY: Verdana, Tahoma , Lucida Sans Unicode, Trebuchet MS, Arial, Helvetica
+}
+a:hover {
+	font-family: Verdana, Tahoma , Lucida Sans Unicode, Trebuchet MS, Arial, Helvetica;
+	font-size: Verdana, Tahoma , Lucida Sans Unicode, Trebuchet MS, Arial, Helvetica;
+	color: #990000;
+	text-decoration: none;
+}
